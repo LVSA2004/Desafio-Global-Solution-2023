@@ -101,7 +101,7 @@ http://localhost:8080/usuario/pesquisa/1
 
 **Exemplo 👇**
 ```js
-http://localhost:8080/baymax/chatbot/1
+http://localhost:8080/chatbot/1
 ```
 
 **Saída 👇**
