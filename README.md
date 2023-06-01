@@ -66,7 +66,7 @@
 
 **Exemplo 👇**
 ```js
-http://localhost:8080/baymax/cliente/pesquisa/1
+http://localhost:8080/usuario/pesquisa/1
 ```
 
 **Saída 👇**
@@ -95,7 +95,7 @@ http://localhost:8080/baymax/cliente/pesquisa/1
 ✔️ | `201` | Prompt inserido com sucesso.
 ❌ | `403` | Não foi possívelinserir o prompt.
 
-### Deletar Prompt ╹ChatGPT╷ **`/baymax/chatbot/{id}`**:
+### Deletar Prompt ╹ChatGPT╷ **`/chatbot/{id}`**:
 
 #### DELETE ⬇️
 
