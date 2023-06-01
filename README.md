@@ -60,7 +60,7 @@
 | ❌ | `403` | Não foi possivel validar o login.
 
 
-### Pesquisa Por ID ╹Cliente╷ **`/baymax/cliente/pesquisa/{id}`**:
+### Pesquisa Por ID ╹Cliente╷ **`/cliente/pesquisa/{id}`**:
 
 #### GET ⬅️
 
@@ -77,7 +77,7 @@ http://localhost:8080/usuario/pesquisa/1
 | ❌ | `404` | Cliente com o id {id} não foi encontrado.
 
 
-### Mandar prompt para o ChatGPT ╹ChatGPT╷ **`/baymax/chatbot/api`**:
+### Mandar prompt para o ChatGPT ╹ChatGPT╷ **`/chatbot/api`**:
 
 #### POST ➡️
 
