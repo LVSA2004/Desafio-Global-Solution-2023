@@ -1,7 +1,7 @@
 <h1 align="center">Desafio Global Solution 2023</h1>
 
 <h1 align="center">Por motivos de segurança, a OpenAI destrói as chaves de API que são colocadas na internet e por isso nosso projeto não consta uma chave de API</h1>
-<h2> Vídeo Pitch: </h2>
+<h2> Vídeo Pitch:https://youtu.be/H4WXcr8yHhM </h2>
 <h2> Vídeo da API RESTful: </h2>
 <h2> Vídeo da API com o Mapeamento Objeto Relacional JPA e Hibernate: </h2>
 
