@@ -17,6 +17,11 @@
     <img height src=""/>
 </div>
 
+<h2 align="center">🧾 Diagrama de Classes 🧾</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/963972218981847040/1114707073024938054/image.png"/>
+</div>
+
 <h2 align="center">Endpoints 📋</h2>
 
 ### Cadastro com Autenticação e Token ╹Usuário╷ **`/usuario/registrar`**:
