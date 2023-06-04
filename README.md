@@ -9,7 +9,7 @@
 
 <h2 align="center">🛠 Arquitetura do Projeto 🛠</h2>
 <div align="center">
-    <img height src=""/>
+    <img height src="https://cdn.discordapp.com/attachments/963972218981847040/1114708385242284122/7b52304f-d844-4a4b-b4b6-2ca5f9f859e1.png"/>
 </div>
 
 <h2 align="center">📊 TOGAF 📊</h2>
