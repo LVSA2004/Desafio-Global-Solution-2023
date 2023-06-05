@@ -26,7 +26,7 @@
 
 <h2 align="center">Endpoints 📋</h2>
 
-### Cadastro com Autenticação e Token ╹Usuário╷ **`/usuario/registrar`**:
+### Cadastro com Autenticação e Token ╹Usuário╷ **`/registrar`**:
 
 #### POST ➡️
 
@@ -49,7 +49,7 @@
 ❌ | `403` | Não foi possível cadastrar o usuário.
 
 
-### Login com validação de Token ╹Usuário╷ **`/usuario/login`**:
+### Login com validação de Token ╹Usuário╷ **`/login`**:
 
 #### POST ➡️
 
