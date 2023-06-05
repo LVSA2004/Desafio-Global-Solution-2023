@@ -155,7 +155,7 @@ http://localhost:8080/pessoa/busca/1
 | ✔️ | `200` | Pessoa com o id {id} encontrada.
 | ❌ | `403` | Pessoa com o id {id} não foi encontrada.
 
-### Atualização de Pessoa ╹Pessoa╷ **`/pessoa/{id}`**:
+### Atualizar Pessoa ╹Pessoa╷ **`/pessoa/{id}`**:
 
 #### PUT 🔄
 
@@ -183,10 +183,10 @@ http://localhost:8080/pessoa/busca/1
 
 |  | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|:------:|-----------|
-| ✔️ | `200` | Alteração feita com sucesso.
+| ✔️ | `204` | Alteração feita com sucesso.
 | ❌ | `403` | Pessoa com o id {id} não foi encontrada.
 
-### Deletar ╹Pessoa╷ **`/pessoa/{id}`**:
+### Deletar Pessoa ╹Pessoa╷ **`/pessoa/{id}`**:
 
 #### DELETE ⬇️
 
@@ -199,5 +199,5 @@ http://localhost:8080/pessoa/1
 
 |  | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|:------:|-----------|
-| ✔️ | `200` | Pessoa deletada com sucesso.
+| ✔️ | `204` | Pessoa deletada com sucesso.
 | ❌ | `403` | Pessoa com o id {id} não foi encontrada.
