@@ -19,7 +19,7 @@
 
 <h2 align="center">🧾 Diagrama de Classes 🧾</h2>
 <div align="center">
-    <img height src="![image](https://github.com/LVSA2004/Desafio-Global-Solution-2023/assets/101113009/f0567dbf-6956-452c-a972-35020a35f6d5)"/>
+    <img height src="https://cdn.discordapp.com/attachments/963972218981847040/1115245677325320294/image.png"/>
 </div>
 
 <h2 align="center">Endpoints 📋</h2>
