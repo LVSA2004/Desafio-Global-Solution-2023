@@ -68,7 +68,7 @@
 | ✔️ | `201` | Login validado com sucesso.
 | ❌ | `403` | Não foi possivel validar o login.
 
-### Mandar prompt para o ChatGPT ╹ChatGPT╷ **`/ivern/chatbot/api`**:
+### Mandar prompt para o ChatGPT ╹ChatGPT╷ **`/chatbot/api`**:
 
 #### POST ➡️
 
@@ -84,15 +84,15 @@
 |  | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|:------:|-----------|
 ✔️ | `200` | Prompt inserido com sucesso.
-❌ | `403` | Não foi possívelinserir o prompt.
+❌ | `403` | Não foi possível inserir o prompt.
 
-### Deletar Prompt ╹ChatGPT╷ **`/ivern/chatbot/{id}`**:
+### Deletar Prompt ╹ChatGPT╷ **`/chatbot/{id}`**:
 
 #### DELETE ⬇️
 
 **Exemplo 👇**
 ```js
-http://localhost:8080/ivern/chatbot/1
+http://localhost:8080/chatbot/1
 ```
 
 **Saída 👇**
@@ -100,7 +100,24 @@ http://localhost:8080/ivern/chatbot/1
 |  | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|:------:|-----------|
 | ✔️ | `200` | Prompt deletado com sucesso.
-| ❌ | `403` | Medico com o id {id} não foi encontrado.
+| ❌ | `403` | Prompt com o id {id} não foi encontrado.
+
+### Pesquisa Por ID ╹ChatGPT╷ **`/chatbot/busca/{id}`**:
+
+#### GET ⬅️
+
+**Exemplo 👇**
+```js
+http://localhost:8080/chatbot/busca/1
+```
+
+**Saída 👇**
+
+|  | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
+|:------:|:------:|-----------|
+| ✔️ | `200` | Prompt com o id {id} encontrada.
+| ❌ | `403` | Prompt com o id {id} não foi encontrada.
+
 
 ### Clima  ╹Open Weather╷ **`/clima/{city}`**:
 
