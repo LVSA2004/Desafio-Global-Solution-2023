@@ -1,9 +1,11 @@
 <h1 align="center">Desafio Global Solution 2023</h1>
 
-<h1 align="center">Por motivos de segurança, a OpenAI destrói as chaves de API que são colocadas na internet e por isso nosso projeto não consta uma chave de API</h1>
 <h2> Vídeo Pitch: https://youtu.be/H4WXcr8yHhM </h2>
 <h2> Vídeo da API RESTful: </h2>
 <h2> Vídeo da API com o Mapeamento Objeto Relacional JPA e Hibernate: </h2>
+<h3 align="center">Link API Key Chat GPT: https://platform.openai.com/account/api-keys</h3>
+<h3 align="center">Link API Clima: https://home.openweathermap.org/api_keys</h3>
+
 
 <h2> Solução desenvolvida para o projeto Global Solution do primeiro semestre com a criação de uma API REStful que ajude no combate a fome com o uso de inteligência artificial</h2>
 
