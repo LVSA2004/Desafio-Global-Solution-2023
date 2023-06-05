@@ -14,7 +14,7 @@
 
 <h2 align="center">📊 TOGAF 📊</h2>
 <div align="center">
-    <img height src="https://cdn.discordapp.com/attachments/963972218981847040/1114708246863822868/Captura_de_tela_2023-06-03_211102.png"/>
+    <img height src="https://cdn.discordapp.com/attachments/963972218981847040/1115363179690741910/image.png"/>
 </div>
 
 <h2 align="center">🧾 Diagrama de Classes 🧾</h2>
