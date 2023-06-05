@@ -1,7 +1,7 @@
 <h1 align="center">Desafio Global Solution 2023</h1>
 
 <h2> Vídeo Pitch: https://youtu.be/H4WXcr8yHhM </h2>
-<h2> Vídeo da API RESTful: </h2>
+<h2> Vídeo da API RESTful: https://youtu.be/7XESC54t3QM </h2>
 <h2> Vídeo da API com o Mapeamento Objeto Relacional JPA e Hibernate: </h2>
 <h3 align="center">Link API Key Chat GPT: https://platform.openai.com/account/api-keys</h3>
 <h3 align="center">Link API Clima: https://home.openweathermap.org/api_keys</h3>
