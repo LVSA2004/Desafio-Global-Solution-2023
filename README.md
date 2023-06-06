@@ -1,6 +1,6 @@
 <h1 align="center">Desafio Global Solution 2023</h1>
 
-<h2> Solução desenvolvida para o projeto Global Solution do primeiro semestre com a criação de uma API REStful que ajude no combate a fome com o uso de inteligência artificial</h2>
+<h2> Solução desenvolvida para o projeto Global Solution do primeiro semestre com a criação de uma API RESTful que ajude no combate a fome com o uso de inteligência artificial</h2>
 
 <h2> Vídeo Pitch: https://youtu.be/H4WXcr8yHhM </h2>
 <h2> Vídeo da API RESTful: https://youtu.be/7XESC54t3QM </h2>
