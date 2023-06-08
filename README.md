@@ -54,7 +54,7 @@
 **Exemplo 👇**
 ```js
 {
-	"email": "lvssfiap@gmail.com",
+	"email": "santificado@gmail.com",
 	"senha": "|(:oUuC<UZ"
 }
 ```
